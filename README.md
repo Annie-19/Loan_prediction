@@ -1,1 +1,1 @@
-This is my first machine learning project. It is a loan prediction project. It predicts if someone is eligible for a loan and the amount they can be given.
+This is a machine learning loan prediction project. It predicts if someone is eligible for a loan and the amount they can be given. It predicts by looking at the level of education, income maritual status and other properties
